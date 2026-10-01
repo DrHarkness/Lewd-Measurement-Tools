@@ -1,0 +1,24 @@
+schema_version = "1.0.0"
+
+id = "lewd_volume_tools"
+version = "1.0.0"
+
+name = "Lewd Volume Tools"
+tagline = "Calculate and visualize mesh based volume measurements"
+
+maintainer = "DrHarkness"
+
+type = "add-on"
+
+blender_version_min = "5.2.0"
+
+license = [
+    "SPDX:GPL-3.0-or-later",
+]
+
+[build]
+paths_exclude_pattern = [
+    "__pycache__/",
+    "/.git/",
+    "/*.zip",
+]
