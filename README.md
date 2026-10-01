@@ -10,7 +10,7 @@ Please take into consideration that all of these values are estimated and based 
 The "Maternal" results are adjusted to fit the breast and milk production increase during pregnancy and maternity.
 
 All of the calculations and results are done per breast, so for example, if you want to know your character daily milk production you will have to multiply the given result by two (or six if your character is one of those...) to get the estimated daily milk production of your character.
-Want to know how much weight is you character lifting with their back? Just multiply the breast mass for the number of breasts in your character (supposing your character breasts are all the same)
+Want to know how much weight is you character lifting with their back? Just multiply the breast mass for the number of breasts in your character (supposing your character breasts are all the same size)
 
 LMT is capable of throwing the following values:
 
