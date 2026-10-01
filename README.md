@@ -15,17 +15,25 @@ Want to know how much weight is you character lifting with their back? Just mult
 LMT is capable of throwing the following values:
 
 Breast volume in cm³
+
 Breast capacity in L
+
 Breast surface area in cm²
+
 Empty breast (Without any milk stored) mass in kg 
 
 Glandular tissue volume in cm³
+
 Fat tissue volume in cm³
+
 Estimated maximum milk storage (capacity) in mL
+
 Estimated maximum milk storage (mass) in kg
 
 Estimated daily milk production (capacity) in mL/day
+
 Estimated daily milk production (mass) in g
 
 Breast volume when full of milk in cm³
+
 Breast mass when full of milk in kg
