@@ -1,5 +1,5 @@
 # Lewd-Measurement-Tools
-A blender addon that containts tools for body parts measurement. 
+A blender addon that contains tools for body parts measurement. 
 
 # What it does?
 Lewd Measurement Tools (or "LMT" for short) measures the volume and surface area of a closed Blender mesh and uses those measurements with configurable model parameters to estimate tissue composition, maternal enlargement, milk storage, milk production, and full breast volume/mass.
